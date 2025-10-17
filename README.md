@@ -1,8 +1,5 @@
 ## Hi 👋, I'm Sukumar Elley
 
-
-**Sukumar-Elley/Sukumar-Elley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 A passionate Web developer and Data Science enthusiast from India
 
 Here are some ideas to get you started:

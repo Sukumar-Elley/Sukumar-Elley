@@ -22,11 +22,12 @@
 <a href="https://instagram.com/stanlee_13431/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ash1805" height="30" width="40" /></a>
 </p>
 
-🛠️ Tech Stack
+<h3 align="left">🛠️ Tech Stack</h3>
+
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
 
-📊 GitHub Stats
+<h3 align="left">📊 GitHub Stats</h3>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Sukumar-Elley&theme=tokyonight&hide_border=true" width="55%" /> </p>
 
-📈 Contribution Graph
+<h3 align="left">📈 Contribution Graph</h3>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true" width="95%" /> </p>

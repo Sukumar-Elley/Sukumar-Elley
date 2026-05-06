@@ -26,8 +26,17 @@
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=tokyonight&hide_border=true" width="40%" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=Sukumar-Elley&theme=tokyonight&hide_border=true" width="55%" /> </p>
-
+<h3 align="left">📊 GitHub Stats & Most Languages Used</h3>
+<p align="center">
+  <a href="https://github.com/Sukumar-Elley">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
+  </a>
+  <a href="https://github.com/Sukumar-Elley">
+    <img src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
+  </a>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sukumar-Elley&theme=tokyonight&hide_border=true" width="55%" />
+</p>
 <h3 align="left">📈 Contribution Graph</h3>
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true" width="95%" /> </p>

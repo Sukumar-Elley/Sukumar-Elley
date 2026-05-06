@@ -27,3 +27,52 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+
+  <a href="https://angular.io" target="_blank">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://angularjs.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://aws.amazon.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://getbootstrap.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.cprogramming.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.chartjs.org" target="_blank">
+    <img src="https://www.chartjs.org/media/logo-title.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://isocpp.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.w3schools.com/css" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.docker.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://expressjs.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.figma.com" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50" height="50"/>
+  </a>&nbsp;&nbsp;
+
+</p>

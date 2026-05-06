@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukumar Elley</h1>
-<h3 align="center">A passionate Developer and Data Science enthusiast from India</h3>
+<h3 align="center">A passionate Data Science enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">

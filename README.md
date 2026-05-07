@@ -27,6 +27,15 @@
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
 
 <h3 align="left">📊 GitHub Stats & Most Languages Used</h3>
+<div align="center">
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kgarg2468&layout=compact&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kgarg2468&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark&hide_border=true&hide=stars,forks,issues)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=kgarg2468&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+</div>
 <p align="center">
   <a href="https://github.com/Sukumar-Elley">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>

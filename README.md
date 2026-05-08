@@ -25,7 +25,26 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
+<div align="center">
 
+<p>TECHNOLOGIES I WORK WITH</p>
+
+# **Skills**
+
+### *A comprehensive toolkit spanning frontend, backend, databases, and development tools*
+
+<br>
+
+<!-- Row 1: Frontend -->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs&perline=7)](https://skillicons.dev)
+
+<!-- Row 2: Backend & Languages -->
+[![My Skills](https://skillicons.dev/icons?i=express,git,github,c,cpp,python,java&perline=7)](https://skillicons.dev)
+
+<!-- Row 3: Databases & Tools -->
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,vscode,postman,aws&perline=7)](https://skillicons.dev)
+
+</div>
 <h3 align="left">📊 GitHub Stats & Most Languages Used</h3>
 
 </div>

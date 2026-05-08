@@ -38,41 +38,6 @@
   </a>
 </p>
 
----
-
-<div align="center">
-
-<sub>TECHNOLOGIES I WORK WITH</sub>
-
-## **⚙️ Skills**
-
-*A comprehensive toolkit spanning frontend, backend, databases, and development tools*
-
-<br/>
-
-<!-- Row 1 – Frontend -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs&perline=7" />
-</a>
-
-<br/><br/>
-
-<!-- Row 2 – Backend & Languages -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=express,git,github,c,cpp,python,java&perline=7" />
-</a>
-
-<br/><br/>
-
-<!-- Row 3 – Databases & Tools -->
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,sqlite,vscode,postman,aws&perline=7" />
-</a>
-
-</div>
-
----
-
 <h3 align="left">📊 GitHub Stats & Most Languages Used</h3>
 
 <p align="center">

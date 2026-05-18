@@ -32,18 +32,12 @@
 <div align="center">
 </div>
 
-<h3 align="left">📊 GitHub Stats & Most Languages Used</h3>
+<h3 align="left">📊 GitHub Stats</h3>
 </div>
 
 <p align="center">
   
-  <a href="https://github.com/Sukumar-Elley">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180em"/>
-  </a>
   
-  <a href="https://github.com/Sukumar-Elley">
-    <img src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180em"/>
-  </a>
 </p>
 
 <p align="center">
@@ -53,3 +47,6 @@
 <h3 align="left">📈 Contribution Graph</h3>
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true" width="95%" /> </p>
+
+<h3 align="left">Most Languages Used</h3>
+<p align center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ashutosh3678&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%">

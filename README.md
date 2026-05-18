@@ -38,6 +38,7 @@
 
 <p align="center">
   
+<img src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="55%" />
   
 </p>
 

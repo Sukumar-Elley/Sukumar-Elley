@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate Data Science enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
+<p align="left"> 👀 <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **Data Science and Business Analytics**
@@ -17,9 +17,9 @@
 
 - ⚡ Fun fact **I love turning data into stories**
 
-<h3 align="left">🌐 Connect with me:</h3>
+<h3 align="left">🌐 Connect with me</h3>
 
-<p align="left">
+<p align="leftr">
 <a href="https://www.linkedin.com/in/sukumar-elley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   
 <a href="https://instagram.com/stanlee_13431/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ash1805" height="30" width="40" /></a>
@@ -28,7 +28,7 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
-<p align="left"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
 
 <div align="center">
 </div>
@@ -49,5 +49,6 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true" width="95%" /> </p>
 
-<h3 align="left">Most Used Languages</h3>
+<h3 align="left">🔥 Most Used Languages</h3>
+
 <p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" /> </p>

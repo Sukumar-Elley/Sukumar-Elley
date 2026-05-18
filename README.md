@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Sukumar-Elley&theme=tokyonight&hide_border=true" width="55%" />
+  <img src="https://streak-stats.demolab.com/?user=Sukumar-Elley&theme=dark&hide_border=false" width="55%" />
 </p>
 
 <h3 align="left">📈 Contribution Graph</h3>

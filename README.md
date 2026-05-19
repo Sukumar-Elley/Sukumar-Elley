@@ -28,12 +28,17 @@
 
 <h3 align="left">🛠️ Tech Stack</h3>
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,html,mysql,git,github,vscode,tensorflow,sklearn" /> </p>
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,docker,firebase,flask,flutter,git,github,googlecloud,java,javascript,kafka,mongodb,mysql,nodejs,postgresql,python,pytorch,r,react,rust,scala,scikitlearn,tailwindcss,tensorflow,vercel,vscode" /> 
+
+</p>
 
 <div align="center">
+  
 </div>
 
 <h3 align="left">📊 GitHub Stats</h3>
+
 </div>
 
 <p align="center">
@@ -52,7 +57,10 @@
 
 <h3 align="left">🔥 Most Used Languages</h3>
 
-<p align="center"> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" /> </p>
+<p align="center"> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="55%" /> 
+
+</p>
 
 <h3 align="left">🏆GitHub Trophies</h3>
 

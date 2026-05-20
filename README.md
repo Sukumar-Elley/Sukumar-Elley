@@ -49,7 +49,9 @@
 </p>
 
 <p align="center">
+  
   <img src="https://streak-stats.demolab.com/?user=Sukumar-Elley&theme=dark&hide_border=false" width="55%" />
+  
 </p>
 
 <h3 align="left">📈 Contribution Graph</h3>

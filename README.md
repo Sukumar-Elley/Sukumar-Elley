@@ -21,6 +21,7 @@
 <h3 align="left">🌐 Connect with me</h3>
 
 <p align="leftr">
+  
 <a href="https://www.linkedin.com/in/sukumar-elley/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   
 <a href="https://instagram.com/stanlee_13431/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_ash1805" height="30" width="40" /></a>
@@ -30,6 +31,7 @@
 <h3 align="left">🛠️ Tech Stack</h3>
 
 <p align="center"> 
+  
   <img src="https://skillicons.dev/icons?i=anaconda,aws,bootstrap,c,css,docker,firebase,flask,flutter,git,github,googlecloud,java,javascript,kafka,mongodb,mysql,nodejs,postgresql,python,pytorch,r,react,rust,scala,scikitlearn,tailwindcss,tensorflow,vercel,vscode" /> 
 
 </p>

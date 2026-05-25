@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Science and Business Analytics**
 
-- 🌱 I’m currently learning **Advanced Data Science**
+- 🌱 I’m currently learning **Advanced Data Science and Machine Learning**
 
 - 👨‍💻 All my projects are available at [LinkedIn](https://www.linkedin.com/in/sukumar-elley/)
   

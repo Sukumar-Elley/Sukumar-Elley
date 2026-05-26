@@ -2,9 +2,17 @@
 
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
+<div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>
+
 <h3 align="center">
 Aspiring Data Scientist | ML Enthusiast | DSA Learner
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&center=true&vCenter=true&width=650&lines=Turning+Data+Into+Insights;Java+%7C+Python+%7C+Machine+Learning;Data+Analytics+%7C+Power+BI;Learning+DSA+and+Advanced+ML" />
+
+</p>
+
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 

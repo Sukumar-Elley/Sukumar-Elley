@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukumar Elley</h1>
 
-<h3 align="center">A passionate Data Science enthusiast from India</h3>
+<h3 align="center">A passionate Data Science Enthusiast from India</h3>
 
 <p align="left">  <img src="https://komarev.com/ghpvc/?username=Sukumar-Elley&label=Profile%20views&color=blueviolet&style=flat" /> </p>
 

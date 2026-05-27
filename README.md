@@ -74,6 +74,7 @@
 <h3 align="left">🔥 Most Used Languages</h3>
 
 <p align="center"> 
+  
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="55%" /> 
 
 </p>
@@ -81,5 +82,7 @@
 <h3 align="left">🏆GitHub Trophies</h3>
 
 <p align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=Sukumar-Elley8&theme=radical&no-frame=true&no-bg=true&margin-w=4 />
+  
 </p>

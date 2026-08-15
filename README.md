@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sukumar Elley</h1>
 
-<h3 align="center">Aspiring Data Scientist | ML Enthusiast | DSA Learner
+<h3 align="center">Aspiring Data Analyst | ML Enthusiast | DSA Learner
 </h3>
 
 <div style="border-top: 4px solid #4B0082; margin-bottom: 20px;"></div>

@@ -73,6 +73,8 @@
 
 <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true" width="95%" /> </p>
 
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=Sukumar-Elley8&theme=dark&hide_border=false"> </p>
+
 <h3 align="left">🔥 Most Used Languages</h3>
 
 <p align="center"> 

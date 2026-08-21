@@ -37,6 +37,10 @@
 
 <a href="https://github.com/Sukumar-Elley" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
+
+<a href="mailto:sukumarelley13431@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  
 </a>
 
 </p>

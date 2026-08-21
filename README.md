@@ -145,11 +145,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
+<h2>🏆 GitHub Trophies</h2>
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Sukumar-Elley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+    src="https://github-profile-trophy.vercel.app/?username=Sukumar-Elley&theme=tokyonight&no-frame=true&no-bg=true&row=1"
     alt="GitHub Trophies"
   />
 </p>

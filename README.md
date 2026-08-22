@@ -149,9 +149,9 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Sukumar-Elley&theme=tokyonight&no-frame=true&no-bg=true&row=1"
-    alt="GitHub Trophies"
-  />
+  src="https://github-profile-trophy.vercel.app/?username=Sukumar-Elley&theme=tokyonight&no-frame=true&no-bg=true&margin-w=5&row=1"
+  alt="GitHub Trophies"
+/>
 </p>
 
 ---

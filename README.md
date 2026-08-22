@@ -56,6 +56,10 @@
   <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="30" width="40" />
 </a>
 
+<a href="https://x.com/SElley49196" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
+</a>
+
 </p>
 
 ---

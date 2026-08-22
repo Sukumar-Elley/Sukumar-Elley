@@ -98,7 +98,7 @@
 
 <p align="center">
   
-<img src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="55%" />
+<img src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="60%" />
   
 </p>
 
@@ -107,7 +107,7 @@
 <p align="center">
   <img
     src="https://streak-stats.demolab.com/?user=Sukumar-Elley&theme=dark&hide_border=false"
-    width="55%"
+    width="60%"
   />
 </p>
 
@@ -116,7 +116,7 @@
 
 <p align="center"> 
   
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="55%" /> 
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="60%" /> 
 
 </p>
 
@@ -127,7 +127,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true&area=true&custom_title=Sukumar%20Elley's%20Contribution%20Graph"
-    width="95%"
+    width="100%"
     alt="Contribution Graph"
   />
 </p>

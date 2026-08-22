@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="480" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="420" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
@@ -65,7 +65,7 @@
 ### 💻 Programming Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,r,,scala" />
+  <img src="https://skillicons.dev/icons?i=c,java,javascript,python,r,scala" />
 </p>
 
 ### 📊 Data Science & Machine Learning

@@ -75,7 +75,7 @@
 ### 📊 Data Science & Machine Learning
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=anaconda,pytorch,tensorflow,scikitlearn,keras" />
 </p>
 
 ### 🌐 Web Development

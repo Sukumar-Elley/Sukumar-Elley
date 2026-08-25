@@ -130,7 +130,7 @@
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true&area=true&custom_title=Sukumar%20Elley's%20Contribution%20Graph"
-    width="110%"
+    width="100%"
     alt="Contribution Graph"
   />
 </p>

@@ -110,9 +110,7 @@
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=bouthyabattu&theme=dark&hide_border=false"
-    width="60%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=Sukumar-Elley&theme=dark&hide_border=false" width="60%" />
 </p>
 
 <h3 align="left">🔥 Most Used Languages</h3>
@@ -128,11 +126,9 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=react-dark&hide_border=true&area=true&custom_title=Sukumar%20Elley's%20Contribution%20Graph"
-    width="100%"
-    alt="Contribution Graph"
-  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&bg_color=0d1117&color=8b949e&line=2ea043&point=8b949e&area=true&area_color=2ea043&hide_border=true&custom_title=Your%20Name%27s%20Contribution%20Graph"
+width="100%" alt="Contribution Graph"
+    />
 </p>
 
 ---

@@ -126,9 +126,11 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&bg_color=0d1117&color=8b949e&line=2ea043&point=8b949e&area=true&area_color=2ea043&hide_border=true&custom_title=Your%20Name%27s%20Contribution%20Graph"
-width="100%" alt="Contribution Graph"
-    />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Sukumar-Elley&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Sukumar Elley's GitHub Activity Graph"
+  />
 </p>
 
 ---

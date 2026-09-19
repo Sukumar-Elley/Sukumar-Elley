@@ -5,6 +5,10 @@
 </h3>
 
 <p align="center">
+  <img src="assets/header.svg" alt="Sukumar Elley Header" width="100%" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=700&color=00BFFF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Insights;Data+Analytics+%7C+Business+Intelligence;Python+%7C+Java+%7C+Machine+Learning;Power+BI+%7C+SQL+%7C+Data+Visualization;Learning+DSA+%26+Advanced+Machine+Learning" alt="Typing SVG" />
 </p>
 

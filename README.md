@@ -45,8 +45,7 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sukumar-elley/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
-</a>
+    <img src="./assets/linkedin-connect.svg" width="200" alt="Connect with me on LinkedIn"/>
 
 <a href="https://instagram.com/stanlee_13431/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />

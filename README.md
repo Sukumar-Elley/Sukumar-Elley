@@ -46,22 +46,35 @@
 
 <a href="https://www.linkedin.com/in/sukumar-elley/" target="_blank">
     <img src="./assets/linkedin-connect.svg" width="200" alt="Connect with me on LinkedIn"/>
-
+<a>
+  
 <a href="https://instagram.com/stanlee_13431/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" />
-</a>
+    <img src="./assets/instagram-follow.svg" width="200" alt="Instagram"/>
+  </a>
 
 <a href="https://github.com/Sukumar-Elley" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40" width="40" />
-</a>
+    <img src="./assets/github-follow.svg" width="200" alt="GitHub"/>
+  </a>
 
 <a href="mailto:sukumarelley13431@gmail.com">
-  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40" width="40" />
-</a>
+    <img src="./assets/email-contact.svg" width="200" alt="Email"/>
+  </a>
 
-<a href="https://x.com/SElley49196" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40" width="40" />
-</a>
+ <a href="https://x.com/SElley49196" target="_blank">
+    <img src="./assets/twitter-follow.svg" width="200" alt="X"/>
+  </a>
+
+ <a href="https://leetcode.com/u/sukumar456/" target="_blank">
+    <img src="./assets/leetcode-practice.svg" width="200" alt="LeetCode"/>
+  </a>
+
+<a href="./assets/Sukumar-Elley-Resume.pdf" target="_blank">
+    <img
+      src="./assets/resume-drive.svg"
+      width="200"
+      alt="View Resume"
+    />
+  </a>
 
 </p>
 

@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sukumar Elley</h1>
 
-<p align="center">
-  <img src="assets/header.svg.png" alt="Sukumar Elley Header" width="100%" />
-</p>
-
 <h3 align="center">
   Aspiring Data Analyst • ML Enthusiast • DSA Learner
 </h3>

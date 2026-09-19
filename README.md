@@ -81,7 +81,6 @@
 > *Consistently practicing algorithms and data structures through coding challenges.*
 
 <p align="center">
-
   <a href="https://leetcode.com/u/sukumar456/" target="_blank">
     <img
       src="https://leetcard.jacoblin.cool/sukumar456?theme=dark&font=Karma&border=0&radius=18"
@@ -89,11 +88,9 @@
       width="75%"
     />
   </a>
-
 </p>
 
 <p align="center">
-
   <a href="https://leetcode.com/" target="_blank">
     <img
       src="https://img.shields.io/badge/⌁%20LEETCODE-080B0F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080B0F"
@@ -125,7 +122,6 @@
       alt="Live Tracker"
     />
   </a>
-
 </p>
 
 ---

@@ -80,6 +80,39 @@
 
 ---
 
+## 🧠 LeetCode Problem Solving
+
+> *Consistently practicing algorithms and data structures through coding challenges.*
+
+<p align="center">
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
+    <img
+      src="https://leetcard.jacoblin.cool/sukumar456?theme=dark&font=Karma&border=0&radius=12"
+      alt="LeetCode Statistics"
+    />
+  </a>
+</p>
+
+<p align="center">
+
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-Visit%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"
+      alt="LeetCode Profile"
+    />
+  </a>
+
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Problems%20Solved-Live%20Tracker-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a"
+      alt="Problems Solved"
+    />
+  </a>
+
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages

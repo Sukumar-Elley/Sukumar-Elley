@@ -91,10 +91,7 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/" target="_blank"><img src="leetcode-buttons/btn-leetcode.svg" height="52" alt="LeetCode"></a>
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-profile.svg" height="52" alt="Visit Profile"></a>
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-solved.svg" height="52" alt="Problems Solved"></a>
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-tracker.svg" height="52" alt="Live Tracker"></a>
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons.svg" width="95%" alt="LeetCode · Visit Profile · Problems Solved · Live Tracker"></a>
 </p>
 
 ---

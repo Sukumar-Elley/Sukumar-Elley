@@ -91,37 +91,10 @@
 </p>
 
 <p align="center">
-  <a href="https://leetcode.com/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/⌁%20LEETCODE-080B0F?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=080B0F"
-      height="65"
-      alt="LeetCode"
-    />
-  </a>
-
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/VISIT%20PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      height="65"
-      alt="Visit Profile"
-    />
-  </a>
-
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/◉%20PROBLEMS%20SOLVED-080B0F?style=for-the-badge&logoColor=white&labelColor=080B0F"
-      height="65"
-      alt="Problems Solved"
-    />
-  </a>
-
-  <a href="https://leetcode.com/u/sukumar456/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LIVE%20TRACKER-E52525?style=for-the-badge&logoColor=white"
-      height="65"
-      alt="Live Tracker"
-    />
-  </a>
+  <a href="https://leetcode.com/" target="_blank"><img src="leetcode-buttons/btn-leetcode.svg" height="52" alt="LeetCode"></a>
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-profile.svg" height="52" alt="Visit Profile"></a>
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-solved.svg" height="52" alt="Problems Solved"></a>
+  <a href="https://leetcode.com/u/sukumar456/" target="_blank"><img src="leetcode-buttons/btn-tracker.svg" height="52" alt="Live Tracker"></a>
 </p>
 
 ---

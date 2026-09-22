@@ -1,66 +1,237 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="Sukumar Elley — Data, AI and software engineering portfolio. Building analytics systems, intelligent applications and production-ready products.">
-  <meta name="author" content="Sukumar Elley">
-  <meta name="theme-color" content="#0a0d12">
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="Sukumar Elley | Data • AI • Engineering">
-  <meta property="og:description" content="Portfolio of Sukumar Elley — data analytics, machine learning, GenAI, MLOps and software engineering.">
-  <meta property="og:image" content="https://avatars.githubusercontent.com/u/236809485?v=4">
-  <meta property="og:url" content="https://sukumar-elley.github.io/">
-  <meta name="twitter:card" content="summary_large_image">
-  <link rel="canonical" href="https://sukumar-elley.github.io/">
-  <link rel="icon" href="https://avatars.githubusercontent.com/u/236809485?v=4">
-  <link rel="manifest" href="manifest.webmanifest">
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-  <title>Sukumar Elley | Data • AI • Engineering</title>
-  <script type="application/ld+json">{"@context":"https://schema.org","@type":"Person","name":"Sukumar Elley","url":"https://sukumar-elley.github.io/","email":"mailto:sukumarelley13431@gmail.com","sameAs":["https://github.com/Sukumar-Elley","https://www.linkedin.com/in/sukumar-elley/","https://instagram.com/stanlee_13431/"],"jobTitle":"Data & AI Developer"}</script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Sukumar Elley's GitHub contribution activity across a rolling 365-day window.">
+  <title>Sukumar Elley — Contribution Activity</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --bg: #0b0f14;
+      --panel: #0d0b08;
+      --panel-2: #12100d;
+      --border: #302716;
+      --text: #eee9df;
+      --muted: #8b8174;
+      --muted-2: #62584b;
+      --amber: #f5a623;
+      --amber-bright: #ffb238;
+      --button-bg: #17130d;
+      --button-hover: #211b12;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      background: var(--bg);
+      color: var(--text);
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+    }
+
+    .page {
+      width: min(1100px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+    }
+
+    .header {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: 20px;
+      margin-bottom: 20px;
+    }
+
+    .title-row { display: flex; align-items: center; gap: 12px; }
+
+    .title-icon {
+      width: 34px;
+      height: 34px;
+      display: grid;
+      place-items: center;
+      border: 1px solid #45403a;
+      border-radius: 8px;
+      background: #e7e7eb;
+      color: #4b4b52;
+      font-size: 16px;
+    }
+
+    .title { margin: 0; font-size: 27px; font-weight: 650; letter-spacing: -0.5px; }
+    .subtitle { margin: 7px 0 0 46px; color: var(--muted); font-size: 13px; }
+    .total { white-space: nowrap; color: var(--text); font-size: 14px; font-weight: 600; }
+
+    .card {
+      background: var(--panel);
+      border: 1px solid var(--border);
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 12px 35px rgba(0,0,0,.22);
+    }
+
+    .chart-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 16px;
+      min-height: 56px;
+      padding: 0 22px;
+      border-bottom: 1px solid #28241f;
+    }
+
+    .window-label { color: var(--amber); font-size: 13px; }
+    .window-label strong { font-weight: 700; }
+    .date-range { color: #d4cabb; font-size: 13px; }
+
+    .chart-viewport {
+      position: relative;
+      width: 100%;
+      height: 390px;
+      overflow: hidden;
+      touch-action: pan-y;
+      user-select: none;
+      cursor: grab;
+    }
+
+    .chart-viewport.dragging { cursor: grabbing; }
+    #graph { width: 100%; height: 100%; }
+    #graph svg { display: block; width: 100%; height: 100%; }
+
+    .navigation {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      padding: 14px 18px 10px;
+      border-top: 1px solid #28241f;
+    }
+
+    .nav-button {
+      min-width: 104px;
+      height: 38px;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 7px;
+      border: 1px solid #423724;
+      border-radius: 8px;
+      background: var(--button-bg);
+      color: #e9dfcf;
+      font-size: 13px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .15s ease, border-color .15s ease, opacity .15s ease, transform .15s ease;
+    }
+
+    .nav-button:hover:not(:disabled) { background: var(--button-hover); border-color: #71592f; transform: translateY(-1px); }
+    .nav-button:active:not(:disabled) { transform: translateY(0); }
+    .nav-button:disabled { opacity: .3; cursor: not-allowed; }
+
+    .position { flex: 1; min-width: 0; }
+    .position-label { display: flex; justify-content: space-between; gap: 12px; margin-bottom: 7px; color: var(--muted); font: 11px ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace; }
+    .position-label strong { color: #cdbfa9; }
+
+    .progress { width: 100%; height: 4px; overflow: hidden; border-radius: 999px; background: #272016; }
+    .progress-value { height: 100%; width: 100%; border-radius: inherit; background: var(--amber); transition: width .22s ease; }
+
+    .boundary-controls {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      padding: 0 18px 17px;
+      color: var(--muted-2);
+      font-size: 11px;
+    }
+
+    .boundary-controls button {
+      border: 0;
+      padding: 0;
+      background: transparent;
+      color: var(--muted);
+      font-size: 11px;
+      cursor: pointer;
+    }
+
+    .boundary-controls button:hover:not(:disabled) { color: var(--amber); }
+    .boundary-controls button:disabled { opacity: .3; cursor: not-allowed; }
+
+    .hint { margin-top: 12px; color: #6e7681; font-size: 12px; text-align: center; }
+    .footer { margin-top: 18px; color: #6e7681; font-size: 12px; text-align: center; }
+
+    .error { padding: 40px; color: #f85149; font: 13px ui-monospace, monospace; }
+
+    @media (max-width: 700px) {
+      .page { width: calc(100% - 20px); padding: 28px 0; }
+      .header { flex-direction: column; }
+      .title { font-size: 23px; }
+      .subtitle { margin-left: 46px; }
+      .total { font-size: 13px; }
+      .chart-header { align-items: flex-start; flex-direction: column; justify-content: center; padding: 12px 16px; gap: 4px; }
+      .chart-viewport { height: 320px; }
+      .navigation { gap: 8px; padding-left: 10px; padding-right: 10px; }
+      .nav-button { min-width: 42px; padding: 0 10px; }
+      .nav-button .button-text { display: none; }
+      .position-label { font-size: 10px; }
+      .boundary-controls { padding-left: 10px; padding-right: 10px; }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .nav-button, .progress-value { transition: none; }
+    }
+  </style>
 </head>
 <body>
-  <div class="progress" id="progress"></div>
-  <header class="nav-wrap"><nav class="nav container" aria-label="Primary navigation">
-    <a class="brand" href="#home" aria-label="Sukumar Elley home"><span>SE</span></a>
-    <div class="nav-links" id="navLinks"><a href="#about">About</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#contact">Contact</a></div>
-    <div class="nav-actions"><button class="icon-btn" id="themeToggle" type="button" aria-label="Toggle color theme" aria-pressed="false">☼</button><button class="menu-btn" id="menuBtn" type="button" aria-label="Open navigation" aria-expanded="false">☰</button></div>
-  </nav></header>
-
-  <main>
-    <section class="hero container" id="home">
-      <div class="hero-copy reveal"><p class="eyebrow"><span class="dot"></span> DATA • AI • SOFTWARE</p>
-        <h1>Building useful<br><em>things with data.</em></h1>
-        <p class="hero-text">I'm <strong>Sukumar Elley</strong> — a data and AI-focused developer who turns complex ideas into practical analytics systems, intelligent applications and production-minded software.</p>
-        <div class="hero-actions"><a class="btn primary" href="#projects">Explore my work <span>↗</span></a><a class="btn ghost" href="https://github.com/Sukumar-Elley" target="_blank" rel="noopener noreferrer">GitHub <span>↗</span></a></div>
-        <div class="hero-meta"><span>India</span><span>Open to opportunities</span><span>Always learning</span></div>
+  <main class="page">
+    <header class="header">
+      <div>
+        <div class="title-row">
+          <span class="title-icon" aria-hidden="true">↗</span>
+          <h1 class="title">Contribution Activity</h1>
+        </div>
+        <p class="subtitle">Sukumar Elley · Full 365-day history</p>
       </div>
-      <div class="hero-card reveal"><div class="avatar"><img src="https://avatars.githubusercontent.com/u/236809485?v=4" alt="Portrait of Sukumar Elley" width="110" height="110"></div>
-        <div class="terminal"><div class="terminal-top"><i></i><i></i><i></i><span>~/sukumar</span></div><div class="terminal-body"><span class="muted">const</span> developer = {<br>&nbsp;&nbsp;focus: <span>"AI + Data"</span>,<br>&nbsp;&nbsp;build: <span>"real systems"</span>,<br>&nbsp;&nbsp;learn: <span>true</span><br>};<br><span class="prompt">$</span> <span class="cursor">_</span></div></div>
+      <div id="total" class="total">Loading...</div>
+    </header>
+
+    <section class="card" aria-label="365-day GitHub contribution activity">
+      <div class="chart-header">
+        <div id="windowLabel" class="window-label"><strong>30</strong> day window</div>
+        <div id="dateRange" class="date-range">Loading...</div>
+      </div>
+
+      <div id="graphViewport" class="chart-viewport" tabindex="0" aria-label="Contribution graph. Use left and right arrow keys or swipe to navigate.">
+        <div id="graph"></div>
+      </div>
+
+      <div class="navigation">
+        <button id="olderButton" class="nav-button" type="button" aria-label="Show previous 30 days">
+          <span aria-hidden="true">←</span><span class="button-text">Older</span>
+        </button>
+
+        <div class="position">
+          <div id="position" class="position-label"></div>
+          <div class="progress" role="progressbar" aria-label="Timeline position" aria-valuemin="0" aria-valuemax="100" aria-valuenow="100">
+            <div id="progressValue" class="progress-value"></div>
+          </div>
+        </div>
+
+        <button id="newerButton" class="nav-button" type="button" aria-label="Show next 30 days">
+          <span class="button-text">Newer</span><span aria-hidden="true">→</span>
+        </button>
+      </div>
+
+      <div class="boundary-controls">
+        <button id="oldestButton" type="button">Oldest</button>
+        <span>Swipe, drag, or use the arrow keys</span>
+        <button id="latestButton" type="button">Latest</button>
       </div>
     </section>
 
-    <section class="marquee" aria-label="Areas of expertise"><div>DATA ANALYTICS&nbsp;&nbsp; ✦ &nbsp;&nbsp;MACHINE LEARNING&nbsp;&nbsp; ✦ &nbsp;&nbsp;GENERATIVE AI&nbsp;&nbsp; ✦ &nbsp;&nbsp;FULL STACK&nbsp;&nbsp; ✦ &nbsp;&nbsp;MLOPS&nbsp;&nbsp; ✦ &nbsp;&nbsp;DATA ANALYTICS&nbsp;&nbsp; ✦ &nbsp;&nbsp;MACHINE LEARNING&nbsp;&nbsp; ✦ &nbsp;&nbsp;</div></section>
-
-    <section class="section container" id="about"><div class="section-head reveal"><p class="eyebrow">01 / ABOUT</p><h2>Curious by default.<br><em>Practical by design.</em></h2></div>
-      <div class="about-grid"><p class="lead reveal">I work at the intersection of <strong>data, machine learning and software engineering</strong>. My projects span analytics, RAG systems, MLOps, agentic applications and data-driven products.</p><div class="about-points reveal"><div><b>01</b><span>Learn continuously</span></div><div><b>02</b><span>Build real systems</span></div><div><b>03</b><span>Ship with clarity</span></div></div></div>
-    </section>
-
-    <section class="section section-alt" id="skills"><div class="container"><div class="section-head reveal"><p class="eyebrow">02 / TOOLKIT</p><h2>Technologies I <em>work with.</em></h2></div>
-      <div class="skill-grid reveal"><article><span class="skill-no">01</span><h3>Languages</h3><p>Python · Java · JavaScript · C · R · SQL</p></article><article><span class="skill-no">02</span><h3>AI / ML</h3><p>Machine Learning · Deep Learning · PyTorch · TensorFlow · scikit-learn · LLMs</p></article><article><span class="skill-no">03</span><h3>Data</h3><p>Power BI · Pandas · NumPy · MySQL · PostgreSQL · MongoDB · Analytics</p></article><article><span class="skill-no">04</span><h3>Engineering</h3><p>React · Node.js · Flask · Docker · Git · AWS · Google Cloud · MLOps</p></article></div>
-    </div></section>
-
-    <section class="section container" id="projects"><div class="section-head project-head reveal"><div><p class="eyebrow">03 / SELECTED WORK</p><h2>Projects from <em>GitHub.</em></h2></div><a class="text-link" href="https://github.com/Sukumar-Elley?tab=repositories" target="_blank" rel="noopener noreferrer">View all repositories ↗</a></div><div class="projects" id="projectGrid" aria-live="polite"><div class="loading">Loading selected projects…</div></div></section>
-
-    <section class="section stats-section"><div class="container"><div class="stats-grid reveal"><div><strong id="repoCount">—</strong><span>Public repositories</span></div><div><strong id="followerCount">—</strong><span>GitHub followers</span></div><div><strong>∞</strong><span>Ideas to explore</span></div><div><strong>24/7</strong><span>Learning mindset</span></div></div></div></section>
-
-    <section class="section contact-section" id="contact"><div class="container contact-inner reveal"><p class="eyebrow">04 / CONTACT</p><h2>Have an idea?<br><em>Let's build it.</em></h2><p>I'm interested in data, AI, software engineering and ambitious projects.</p><div class="contact-actions"><a class="btn primary" href="mailto:sukumarelley13431@gmail.com">Email me ↗</a><a class="btn ghost" href="https://www.linkedin.com/in/sukumar-elley/" target="_blank" rel="noopener noreferrer">LinkedIn ↗</a></div></div></section>
+    <div class="footer">Automatically updated daily by GitHub Actions.</div>
   </main>
 
-  <footer class="footer container"><span>© <span id="year"></span> Sukumar Elley</span><div><a href="https://github.com/Sukumar-Elley" target="_blank" rel="noopener noreferrer">GitHub</a><a href="https://www.linkedin.com/in/sukumar-elley/" target="_blank" rel="noopener noreferrer">LinkedIn</a><a href="mailto:sukumarelley13431@gmail.com">Email</a></div></footer>
-  <script src="script.js"></script>
+  <script src="./contribution-graph.js"></script>
 </body>
 </html>

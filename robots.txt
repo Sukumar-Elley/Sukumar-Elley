@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sukumar-elley.github.io/sitemap.xml

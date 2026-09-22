@@ -191,7 +191,7 @@
 <img src="https://raw.githubusercontent.com/Sukumar-Elley/Sukumar-Elley/main/assets/contribution-graph.svg" />
 
 <p align="center">
-  <a href="https://sukumar-elley.github.io/Sukumar-Elley/">↗ Interactive 365-day contribution history</a>
+  <a href="https://Sukumar-Elley.github.io/Sukumar-Elley/">↗ Interactive 365-day contribution history</a>
 </p>
 
 ---

@@ -164,25 +164,24 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  
-<img src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="75%" />
-  
+  <img
+    src="https://raw.githubusercontent.com/Sukumar-Elley/github-stats/generated/overview.svg"
+    width="75%"
+    alt="Sukumar Elley GitHub overview statistics"
+  />
 </p>
 
-## 🔥 GitHub Streak
+<h3 align="center">🔥 Most Used Languages</h3>
 
 <p align="center">
   <img
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sukumar-Elley&theme=dark" width="75%" />
+    src="https://raw.githubusercontent.com/Sukumar-Elley/github-stats/generated/languages.svg"
+    width="75%"
+    alt="Sukumar Elley GitHub language statistics"
+  />
 </p>
 
-<h3 align="left">🔥 Most Used Languages</h3>
-
-<p align="center"> 
-  
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="75%" /> 
-
-</p>
+> Statistics are generated automatically by my self-hosted `github-stats` workflow.
 
 ---
 

@@ -165,23 +165,27 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Sukumar-Elley/github-stats/generated/overview.svg"
+    src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     width="75%"
     alt="Sukumar Elley GitHub overview statistics"
   />
 </p>
 
-<h3 align="center">🔥 Most Used Languages</h3>
+---
+
+## 🔥 Most Used Languages
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/Sukumar-Elley/github-stats/generated/languages.svg"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_count=1800"
     width="75%"
     alt="Sukumar Elley GitHub language statistics"
   />
 </p>
 
-<h3 align="center">🔥 GitHub Streak</h3>
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
   <a href="https://streak-stats.demolab.com/" target="_blank">
@@ -192,8 +196,6 @@
     />
   </a>
 </p>
-
-> GitHub statistics are generated automatically by my self-hosted workflow.
 
 ---
 

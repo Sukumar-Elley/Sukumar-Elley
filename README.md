@@ -173,6 +173,20 @@
 
 ---
 
+## 🔥 GitHub Streak
+
+<p align="center">
+  <a href="https://streak-stats.demolab.com/" target="_blank">
+    <img
+      src="https://streak-stats.demolab.com/?user=Sukumar-Elley&theme=dark&hide_border=false&mode=daily"
+      width="75%"
+      alt="Sukumar Elley GitHub contribution streak"
+    />
+  </a>
+</p>
+
+---
+
 ## 🔥 Most Used Languages
 
 <p align="center">
@@ -181,20 +195,6 @@
     width="75%"
     alt="Sukumar Elley GitHub language statistics"
   />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <a href="https://streak-stats.demolab.com/" target="_blank">
-    <img
-      src="https://streak-stats.demolab.com?user=Sukumar-Elley&theme=github-dark-blue&hide_border=false&mode=daily"
-      width="75%"
-      alt="Sukumar Elley GitHub contribution streak"
-    />
-  </a>
 </p>
 
 ---

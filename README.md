@@ -177,7 +177,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_count=180"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
     width="75%"
     alt="Sukumar Elley GitHub language statistics"
   />

@@ -165,7 +165,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=dark&hide_border=false&langs_count=8"
     width="75%"
     alt="Sukumar Elley GitHub overview statistics"
   />

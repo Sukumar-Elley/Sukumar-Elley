@@ -165,7 +165,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=dark&hide_border=false&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true"
     width="75%"
     alt="Sukumar Elley GitHub overview statistics"
   />
@@ -191,7 +191,7 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sukumar-Elley&layout=compact&theme=dark&hide_border=false&langs_count=8"
     width="75%"
     alt="Sukumar Elley GitHub language statistics"
   />

@@ -173,6 +173,12 @@
 
 ---
 
+<p align="center">
+  <img
+    src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=Sukumar-Elley&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true" width="75%"
+    alt="Sukumar Elley GitHub overview statistics"
+  />
+
 ## 🔥 GitHub Streak
 
 <p align="center">

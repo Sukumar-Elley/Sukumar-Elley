@@ -164,8 +164,7 @@
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Sukumar-Elley&show_icons=true&theme=dark&hide_border=false&count_private=true&include_all_commits=true"
+  <img src="https://github-readme-stats.shion.dev/api?username=Sukumar-Elley&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
     width="75%"
     alt="Sukumar Elley GitHub overview statistics"
   />
